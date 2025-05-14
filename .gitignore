@@ -1,0 +1,56 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET Core secrets
+**/appsettings.Development.json
+**/appsettings.*.json
+
+# Logs
+*.log
+logs/
+
+# Dotnet tools
+.tools/
+
+# Coverage reports
+coverage/
+TestResults/
+*.coverage
+*.coveragexml
+
+# Publish output
+publish/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# EF Core tools
+Migrations/
+
+
+# Ignore integration tests
+MyLibraryApp.Tests/IntegrationTests/
+
+# Git itself
+*.orig
+*.rej
+
+# Ignore .env or environment-specific config
+.env
+.env.*
