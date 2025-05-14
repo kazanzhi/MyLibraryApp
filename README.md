@@ -68,16 +68,16 @@ dotnet test
 ## Project Structure
 
 MyLibraryApp/                        # ASP.NET Core Web API
-  Properties/
-  Controllers/
-  Data/
-  Dtos/
-  Interfaces/
-  Models/
-  Repositories/
-  Services/
-  Program.cs
-MyLibraryApp.Tests/                 # Unit tests
-
+   Properties/
+   Controllers/
+   Data/
+   Dtos/
+   Interfaces/
+   Models/
+   Repositories/
+   Services/
+   Program.cs
+MyLibraryApp.Tests/               # Unit tests
+  
 ## Notes
 For testing purposes, the X-Test-Role header can be added to simulate roles (User, Admin).
