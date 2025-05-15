@@ -46,7 +46,7 @@
 ## Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/MyLibraryApp.git
+   git clone https://github.com/kazanzhi/MyLibraryApp.git
    cd MyLibraryApp
    
 3. Update the connection string in appsettings.json:
